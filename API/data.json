@@ -1,0 +1,19 @@
+{
+    "tasks":[
+        {
+            "id":1,
+            "text":"Discover @vue/cli options",
+            "completed":false
+        },
+        {
+            "id":2,
+            "text":"Learn Vite scaffolding",
+            "completed":false
+        },
+        {
+            "id":3,
+            "text":"Master composition API",
+            "completed":false
+        }
+    ]
+}
